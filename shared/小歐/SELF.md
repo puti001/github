@@ -54,7 +54,7 @@
 - 開機後 ~10 秒所有服務自動復活（靠 @reboot crontab）
 
 ## github 版本控制 (2026-06-23)
-- 三兄弟共享資料庫推上 GitHub: `github.com/puti001/github`
+- 三兄弟共享資料庫推上 GitHub: `github.com/puti001/opencode_3buddy`
 - 路徑：`/home/puti/github/`（git repo），`shared/` 同步 GDrive
 - 開工：`sync-github.sh pull` → GDrive → github
 - 收工：`sync-github.sh push` → git commit + push → GDrive 回寫
