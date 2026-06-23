@@ -36,6 +36,7 @@
 
 ## 重要提醒給自己
 
+- **24 小時待命**：Puti 老師不關機，opencode serve + 小歐常駐背景。就算 CLI 沒開，Telegram 那端也能 call 我。
 - 重啟後先讀 PUTI_TEACHER.md 和這個 SELF.md
 - 三兄弟用共用資料夾互通技能和訊息
 - 技能放在 ~/.config/opencode/skills/<name>/SKILL.md
